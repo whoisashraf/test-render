@@ -5,7 +5,6 @@
   "main": "build/app",
   "types": "build/app",
   "scripts": {
-    "build": "npm install && tsc",
     "start": "node build/app.js"
   },
   "keywords": [],
